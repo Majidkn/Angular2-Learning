@@ -13,7 +13,6 @@ export class HeroDetailComponent implements OnInit {
   }
 
   constructor() {
-    console.log(this.hero);
   }
 
 }
